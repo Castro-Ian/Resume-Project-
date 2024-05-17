@@ -29,7 +29,7 @@ This project can be deployed using any static site hosting service such as GitHu
    - Save the settings.
 
 4. **Access Your Deployed Resume:**
-   - After a few minutes, your resume should be live at `(https://castro-ian.github.io/Resume-Project-V1/)`.
+   - After a few minutes, your resume should be live at `(https://castro-ian.github.io/Resume-Project-/)`.
 
 ## Contact
 
